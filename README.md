@@ -1,2 +1,2 @@
 # OpenShift-Local
-Setting up OpenShift Local (CodeReady Containers)
+Setting up OpenShift Local
